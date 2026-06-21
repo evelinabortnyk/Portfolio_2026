@@ -22,17 +22,16 @@ main{
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 24px;
+    gap: 20px;
     padding-top: 20px;
 }
 .grid-element{
     display: flex;
-    flex: 1 1 100%;
     justify-content: center;
 }
 
 .scill{
-    max-width: 150px;
+    width: 130px;
     height: 50px;
 
     background-color: var(--bordo);
