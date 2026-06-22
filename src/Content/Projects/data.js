@@ -35,13 +35,5 @@ export const projectsArr =[
         using: [],
         linkShow :'https://fest-hczh8rlov-evelinavegas.vercel.app/',
         linkCode :'https://github.com/evelinabortnyk/Rock_fest',
-    },
-    // {
-    //     img: item5,
-    //     title: 'Wörter App',
-    //     description: '',
-    //     using: [],
-    //     linkShow :'https://w-rter-app.vercel.app/',
-    //     linkCode :'https://github.com/evelinavegas/w-rter-app/tree/main',
-    // },        
+    }, 
 ]
